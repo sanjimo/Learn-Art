@@ -1,0 +1,26 @@
+[
+    {
+        "id": "01",
+        "name": "Alvina",
+        "designation": "Art Teacher",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLjF-X468R8B6LQAGXp8RLpzpnT3wGTVe-Gw&usqp=CAU"
+    },
+    {
+        "id": "02",
+        "name": "Jhon",
+        "designation": "Music Teacher",
+        "img": "https://images.wunderstock.com/Man-Wearing-Green-Polo-Shirt_99kBK7kAuISd_400.jpeg"
+    },
+    {
+        "id": "03",
+        "name": "Rose",
+        "designation": "Design Teacher",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfwmlnki-Fu34fe95gBQA2jS1wxZ-oFZ9htw&usqp=CAU"
+    },
+    {
+        "id": "04",
+        "name": "Iliyana",
+        "designation": "Dance Teacher",
+        "img": "https://cdn.pixabay.com/photo/2015/09/09/22/04/woman-933684_1280.jpg"
+    }
+]

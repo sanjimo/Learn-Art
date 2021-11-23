@@ -1,0 +1,33 @@
+[
+    {   "id": "0003",
+        "title": "Handwriting",
+        "category": "Basic",
+        "deadline":"15th October, 2021",
+        "discount":"15%",
+        "img": "https://5.imimg.com/data5/FI/RS/MY-10346904/english-handwriting-classes-500x500.jpg?fbclid=IwAR3M4dwl0Uycqc12jIb2UELaW2WNr4gvlHaPjN0obfNFhQoHLZNPGEnyJME"
+    },
+    {
+        "id": "0005",
+        "title": "Graphics Design",
+        "category": "Digital",
+        "deadline":"18th October, 2021",
+       "discount":"12%",
+        "img": "https://nibm.lk/wp-content/uploads/2019/10/shutterstock_410481883.jpg"
+    },
+    {
+        "id": "0007",
+        "title": "Interior Design",
+        "category": "Digital",
+        "deadline":"25th October, 2021",
+        "discount":"10%",
+        "img": "https://insdindia.com/wp-content/uploads/2021/02/What-are-the-fees-for-an-interior-designing.jpg?fbclid=IwAR0fltSmMLRIBC6vYVURAjGeRRuwHu8x6zO_gyv5Z2C_D0PG4cDb0x2_9wU"
+    },
+    {
+        "id": "0008",
+        "title": "Music History",
+        "category": "Basic",
+        "deadline":"27th October, 2021",
+        "discount":"15%",
+        "img": "https://www.gannett-cdn.com/presto/2021/08/01/NCOD/b50946a5-822a-4a1b-a25b-1d9954872ae4-pexels-pixabay-210764.jpg?width=660&height=440&fit=crop&format=pjpg&auto=webp&fbclid=IwAR0TLkodyYeUR093eOmWOTOboki1NmSNH40wb_FE9TL-DaFBJamL-TRCeP8"
+    }
+]

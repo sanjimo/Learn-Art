@@ -1,0 +1,92 @@
+[
+    {
+        "id": "0001",
+        "title": "Painting",
+        "category": "Art",
+        "details": "The great artists of the past were aware that human life is full of chaos and suffering. But they had a remedy for this. And the name of that remedy was ‘beauty’.",
+        "weeks": 10,
+        "lesson": 40,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSny0Hb8ZRLc4Xpb2iwTQwEf5LUNHOnkxFQ6w&usqp=CAU",
+        "fee": 30
+    },
+    {
+        "id": "0002",
+        "title": "Visual Art",
+        "category": "Art",
+        "details": "Visual arts form of art that focus on creating pieces of work that mainly make use of the visual environment, while trying to convey messages of emotion, ideas or information.",
+        "weeks": 10,
+        "lesson": 45,
+        "img": "https://www.youraga.ca/sites/default/files/styles/full_content/public/media/images/2017-09/charcoal-drawing-charcoal-pencil-portrait-profile-160462.jpeg?itok=9OMgE3Ys&fbclid=IwAR2uX4biKbhvn-krVn-TkvkkJSn4w4VygPAyp4ckKRSpV-u6KKrO09qVQS8",
+        "fee": 40
+    },
+    {
+        "id": "0003",
+        "title": "Handwriting",
+        "category": "Basic",
+        "details": "Handwriting is more connected to the movement of the heart.Hand writing causes thinking - the repetition of writing your goal everyday will increase your awareness.",
+        "weeks": 8,
+        "lesson": 30,
+        "img": "https://5.imimg.com/data5/FI/RS/MY-10346904/english-handwriting-classes-500x500.jpg?fbclid=IwAR3M4dwl0Uycqc12jIb2UELaW2WNr4gvlHaPjN0obfNFhQoHLZNPGEnyJME",
+        "fee": 25
+    },
+    {
+        "id": "0004",
+        "title": "Animation",
+        "category": "Digital",
+        "details": "Student who study animation can come from a wide range of subjects. Some students who major in film only discover, through the course of their program, about their passion for animation.",
+        "weeks": 10,
+        "lesson": 45,
+        "img": "https://i1.wp.com/creativenerds.co.uk/wp-content/uploads/2013/08/pencil.jpg?fbclid=IwAR3CI0W9RF9OiC58HPW8RFYhiTZUr9i94s0VN_f7IfJsGCy3hT3216BSRL4",
+        "fee": 40
+    },
+    {
+        "id": "0005",
+        "title": "Graphics Design",
+        "category": "Digital",
+        "details": "Graphic design is one of those jobs that bleed into many different aspects of our lives. This art program is also great for people who enjoy freelancing.",
+        "weeks": 8,
+        "lesson": 40,
+        "img": "https://nibm.lk/wp-content/uploads/2019/10/shutterstock_410481883.jpg",
+        "fee": 30
+    },
+    {
+        "id": "0006",
+        "title": "Fashion Design",
+        "category": "Fashion",
+        "details": "While fashion design subjects can seem like a narrow field, composed of only designing and producing apparel-fashion design degrees encompass everything related to fashion industry.",
+        "weeks": 8,
+        "lesson": 40,
+        "img": "https://gelblau.net/fileadmin/user_upload/rawpixel-797131-unsplash.jpg?fbclid=IwAR2uX4biKbhvn-krVn-TkvkkJSn4w4VygPAyp4ckKRSpV-u6KKrO09qVQS8",
+        "fee": 30
+    },
+    {
+        "id": "0007",
+        "title": "Interior Design",
+        "category": "Digital",
+        "details": "The design of everything from hospital rooms to malls have been designed with a specific purpose or goal in mind.",
+        "weeks": 8,
+        "lesson": 40,
+        "img": "https://insdindia.com/wp-content/uploads/2021/02/What-are-the-fees-for-an-interior-designing.jpg?fbclid=IwAR0fltSmMLRIBC6vYVURAjGeRRuwHu8x6zO_gyv5Z2C_D0PG4cDb0x2_9wU",
+        "fee": 30
+    },
+    {
+        "id": "0008",
+        "title": "Music History",
+        "category": "Basic",
+        "details": "Music history or historic musicology is one of the most important components of musicology, a discipline that documents the development of musical art and its culture in the course of time.",
+        "weeks": 10,
+        "lesson": 40,
+        "img": "https://www.gannett-cdn.com/presto/2021/08/01/NCOD/b50946a5-822a-4a1b-a25b-1d9954872ae4-pexels-pixabay-210764.jpg?width=660&height=440&fit=crop&format=pjpg&auto=webp&fbclid=IwAR0TLkodyYeUR093eOmWOTOboki1NmSNH40wb_FE9TL-DaFBJamL-TRCeP8",
+        "fee": 40
+    },
+    {
+        "id": "0009",
+        "title": "Theater and Dance",
+        "category": "Basic",
+        "details": "Theater is an old form of art. Based on the area of fiction known as drama, theater is a complex art that combines different elements that aim to transmit a certain feeling, idea or inner state of audience.",
+        "weeks": 10,
+        "lesson": 40,
+        "img": "https://luxfon.com/large/201203/1868.jpg?fbclid=IwAR2F895zycRpTpN1bUN1uy-sD5I4BGP_nVrXobCseKRvYpJBRQdInQAEE-A",
+        "fee": 40
+    }
+]

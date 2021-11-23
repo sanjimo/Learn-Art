@@ -1,0 +1,42 @@
+[
+    {
+        "id": "0001",
+        "title": "Painting",
+        "category": "Art",
+        "details": "The great artists of the past were aware that human life is full of chaos and suffering. But they had a remedy for this. And the name of that remedy was ‘beauty’.",
+        "weeks": 10,
+        "lesson": 40,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSny0Hb8ZRLc4Xpb2iwTQwEf5LUNHOnkxFQ6w&usqp=CAU",
+        "fee": 30
+    },
+    {
+        "id": "0005",
+        "title": "Graphics Design",
+        "category": "Digital",
+        "details": "Graphic design is one of those jobs that bleed into many different aspects of our lives. This art program is also great for people who enjoy freelancing.",
+        "weeks": 8,
+        "lesson": 40,
+        "img": "https://nibm.lk/wp-content/uploads/2019/10/shutterstock_410481883.jpg",
+        "fee": 30
+    },
+    {
+        "id": "0007",
+        "title": "Interior Design",
+        "category": "Digital",
+        "details": "The design of everything from hospital rooms to malls have been designed with a specific purpose or goal in mind. The rooms and spaces you encounter on a daily basis are studied in the subject of interior design.",
+        "weeks": 8,
+        "lesson": 40,
+        "img": "https://insdindia.com/wp-content/uploads/2021/02/What-are-the-fees-for-an-interior-designing.jpg?fbclid=IwAR0fltSmMLRIBC6vYVURAjGeRRuwHu8x6zO_gyv5Z2C_D0PG4cDb0x2_9wU",
+        "fee": 30
+    },
+    {
+        "id": "0008",
+        "title": "Music History",
+        "category": "Basic",
+        "details": "Music history or historic musicology is one of the most important components of musicology, a discipline that documents the development of musical art and its culture in the course of time.",
+        "weeks": 10,
+        "lesson": 40,
+        "img": "https://www.gannett-cdn.com/presto/2021/08/01/NCOD/b50946a5-822a-4a1b-a25b-1d9954872ae4-pexels-pixabay-210764.jpg?width=660&height=440&fit=crop&format=pjpg&auto=webp&fbclid=IwAR0TLkodyYeUR093eOmWOTOboki1NmSNH40wb_FE9TL-DaFBJamL-TRCeP8",
+        "fee": 40
+    }
+]
