@@ -1,6 +1,7 @@
 # Learn Art
 
 Live Site Link [Learn Art](https://learn-art-2021.netlify.app/).
+
 Git Repo Link [GitRepo](https://github.com/sanjimo/Learn-Art).
 
 1.Single Page Application provides information of several courses from JSON.
