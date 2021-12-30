@@ -41,16 +41,6 @@
     },
     {
         "id": "0005",
-        "title": "Graphics Design",
-        "category": "Digital",
-        "details": "Graphic design is one of those jobs that bleed into many different aspects of our lives. This art program is also great for people who enjoy freelancing.",
-        "weeks": 8,
-        "lesson": 40,
-        "img": "https://nibm.lk/wp-content/uploads/2019/10/shutterstock_410481883.jpg",
-        "fee": 30
-    },
-    {
-        "id": "0006",
         "title": "Fashion Design",
         "category": "Fashion",
         "details": "While fashion design subjects can seem like a narrow field, composed of only designing and producing apparel-fashion design degrees encompass everything related to fashion industry.",
@@ -60,7 +50,7 @@
         "fee": 30
     },
     {
-        "id": "0007",
+        "id": "0006",
         "title": "Interior Design",
         "category": "Digital",
         "details": "The design of everything from hospital rooms to malls have been designed with a specific purpose or goal in mind.",
@@ -70,7 +60,7 @@
         "fee": 30
     },
     {
-        "id": "0008",
+        "id": "0007",
         "title": "Music History",
         "category": "Basic",
         "details": "Music history or historic musicology is one of the most important components of musicology, a discipline that documents the development of musical art and its culture in the course of time.",
@@ -80,7 +70,7 @@
         "fee": 40
     },
     {
-        "id": "0009",
+        "id": "0008",
         "title": "Theater and Dance",
         "category": "Basic",
         "details": "Theater is an old form of art. Based on the area of fiction known as drama, theater is a complex art that combines different elements that aim to transmit a certain feeling, idea or inner state of audience.",

@@ -11,16 +11,16 @@
     },
     {
         "id": "0005",
-        "title": "Graphics Design",
-        "category": "Digital",
-        "details": "Graphic design is one of those jobs that bleed into many different aspects of our lives. This art program is also great for people who enjoy freelancing.",
+        "title": "Fashion Design",
+        "category": "Fashion",
+        "details": "While fashion design subjects can seem like a narrow field, composed of only designing and producing apparel-fashion design degrees encompass everything related to fashion industry.",
         "weeks": 8,
         "lesson": 40,
-        "img": "https://nibm.lk/wp-content/uploads/2019/10/shutterstock_410481883.jpg",
+        "img": "https://gelblau.net/fileadmin/user_upload/rawpixel-797131-unsplash.jpg?fbclid=IwAR2uX4biKbhvn-krVn-TkvkkJSn4w4VygPAyp4ckKRSpV-u6KKrO09qVQS8",
         "fee": 30
     },
     {
-        "id": "0007",
+        "id": "0006",
         "title": "Interior Design",
         "category": "Digital",
         "details": "The design of everything from hospital rooms to malls have been designed with a specific purpose or goal in mind. The rooms and spaces you encounter on a daily basis are studied in the subject of interior design.",
@@ -30,7 +30,7 @@
         "fee": 30
     },
     {
-        "id": "0008",
+        "id": "0007",
         "title": "Music History",
         "category": "Basic",
         "details": "Music history or historic musicology is one of the most important components of musicology, a discipline that documents the development of musical art and its culture in the course of time.",
